@@ -1,3 +1,5 @@
+package quiz01;
+
 public class ProductMain {
     public static void main(String[] args) {
         Product beauty = new Beauty("beauty", 30000, 2);

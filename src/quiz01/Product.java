@@ -1,3 +1,5 @@
+package quiz01;
+
 public class Product implements Promotion {
     private String name;
     private int price;
